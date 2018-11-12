@@ -1,2 +1,2 @@
-# City-Data
+# City Data
 Udacity
